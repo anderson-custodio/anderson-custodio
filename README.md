@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Anderson Custódio
-###### *Software Engineer at [LuizaLabs](https://www.linkedin.com/company/luizalabs)*
+###### *Software Engineer at [LuizaLabs](https://github.com/luizalabs)*
 
 Some info about me:
 
